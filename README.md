@@ -1,2 +1,2 @@
 # hangman
-#https://ma-muhammadadil.github.io/hangman/
+# https://ma-muhammadadil.github.io/hangman/
